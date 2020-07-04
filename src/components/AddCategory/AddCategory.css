@@ -1,0 +1,16 @@
+.addForm{
+    width:70%;
+}
+
+#inputCategory,
+#buttonAdd{
+    width:50%;
+    display:inline-block;
+    margin-left:2px;
+}
+#buttonAdd{
+    width:20%;
+    display:inline-block;
+    margin-left:2px;
+    position: absolute;
+}
